@@ -116,6 +116,4 @@ finnook/
 
 MIT License — feel free to use and modify.
 
----
 
-Built with ❤️ by Ashish
